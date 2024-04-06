@@ -1,0 +1,1 @@
+This is the Velocity Plugin vor the MineCloud
